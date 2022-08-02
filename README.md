@@ -1,7 +1,7 @@
 ### 👋 I'm John Akonya | tech-enthusiast
-🌱 I like learning new technologies - currently learning Golang
-✨ I love working with the MERN stack | python | c++ | javascript
-👯 I am looking to collaborate on a MERN stack project
+- 🌱 I like learning new technologies - currently learning Golang
+- ✨ I love working with the MERN stack | python | c++ | javascript
+- 👯 I am looking to collaborate on a MERN stack project
 
 <!--
 **johnakon/johnakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

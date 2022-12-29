@@ -1,4 +1,4 @@
-### 👋 I'm John Akonya | tech-enthusiast
+### 👋 I'm Johntel | tech-enthusiast
 - 🌱 I like learning new technologies - currently learning c++20
 - ✨ I love working with the MERN stack | python | c++ | javascript
 - 👯 I am looking to collaborate on a MERN stack project

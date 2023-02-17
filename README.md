@@ -1,4 +1,5 @@
 ### 👋 I'm Johntel | tech-enthusiast
+- ⚡ I have a keen interest in cyber security, ethical hacking, network analysis and penetration testing
 - 🌱 I like learning new technologies - currently learning c++20
 - ✨ I love working with the MERN stack | python | c++ | javascript
 - 👯 I am looking to collaborate on a MERN stack project
